@@ -1,2 +1,0 @@
-# Masterclass - Manipulando a DOM
-
